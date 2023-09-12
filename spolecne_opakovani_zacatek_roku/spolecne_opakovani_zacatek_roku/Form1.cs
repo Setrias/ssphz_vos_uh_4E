@@ -33,7 +33,7 @@ namespace spolecne_opakovani_zacatek_roku
             for (int i = 0; i < 3; i++)
             {
                 // aby adresa nebyla krátká, program by spadl
-                if (mail[pozice[i]] == ' ' || mail[pozice[i]] == null)
+                if (mail[pozice[i]] == ' ')
                 {
                     MessageBox.Show("E-mail adresa je moc krátká.");
                     return;
