@@ -1,0 +1,10 @@
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\bin\Debug\opakovani_4E.exe.config
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\bin\Debug\opakovani_4E.exe
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\bin\Debug\opakovani_4E.pdb
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.csprojAssemblyReference.cache
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.Form1.resources
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.Properties.Resources.resources
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.csproj.GenerateResource.cache
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.csproj.CoreCompileInputs.cache
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.exe
+C:\Users\20ebucto\source\repos\Setrias\project-sharprock\opakovani_4E\opakovani_4E\obj\Debug\opakovani_4E.pdb
