@@ -29,6 +29,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.buttonMail = new System.Windows.Forms.Button();
+            this.textBoxMail = new System.Windows.Forms.TextBox();
+            this.labelCisloMereni = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.groupBoxVypocetOdporu = new System.Windows.Forms.GroupBox();
             this.groupBoxVypocetFrekvence = new System.Windows.Forms.GroupBox();
             this.textBoxUhlovaFrekvence = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
@@ -40,19 +45,73 @@
             this.label4 = new System.Windows.Forms.Label();
             this.textBoxVyslednyOdpor = new System.Windows.Forms.TextBox();
             this.buttonHodnotyMereni = new System.Windows.Forms.Button();
-            this.groupBoxVypocetOdporu = new System.Windows.Forms.GroupBox();
-            this.labelCisloMereni = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.textBoxProud = new System.Windows.Forms.TextBox();
             this.textBoxNapeti = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.buttonMail = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBoxMail = new System.Windows.Forms.TextBox();
-            this.groupBoxVypocetFrekvence.SuspendLayout();
             this.groupBoxVypocetOdporu.SuspendLayout();
+            this.groupBoxVypocetFrekvence.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // buttonMail
+            // 
+            this.buttonMail.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonMail.Location = new System.Drawing.Point(241, 17);
+            this.buttonMail.Name = "buttonMail";
+            this.buttonMail.Size = new System.Drawing.Size(101, 23);
+            this.buttonMail.TabIndex = 14;
+            this.buttonMail.Text = "Zadat Mail";
+            this.buttonMail.UseVisualStyleBackColor = true;
+            this.buttonMail.Click += new System.EventHandler(this.buttonMail_Click);
+            // 
+            // textBoxMail
+            // 
+            this.textBoxMail.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxMail.Location = new System.Drawing.Point(62, 17);
+            this.textBoxMail.Name = "textBoxMail";
+            this.textBoxMail.Size = new System.Drawing.Size(173, 23);
+            this.textBoxMail.TabIndex = 12;
+            // 
+            // labelCisloMereni
+            // 
+            this.labelCisloMereni.AutoSize = true;
+            this.labelCisloMereni.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.labelCisloMereni.Location = new System.Drawing.Point(87, 76);
+            this.labelCisloMereni.Name = "labelCisloMereni";
+            this.labelCisloMereni.Size = new System.Drawing.Size(12, 16);
+            this.labelCisloMereni.TabIndex = 13;
+            this.labelCisloMereni.Text = "1";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label8.Location = new System.Drawing.Point(6, 76);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(74, 16);
+            this.label8.TabIndex = 12;
+            this.label8.Text = "Číslo měření:";
+            // 
+            // groupBoxVypocetOdporu
+            // 
+            this.groupBoxVypocetOdporu.Controls.Add(this.labelCisloMereni);
+            this.groupBoxVypocetOdporu.Controls.Add(this.label8);
+            this.groupBoxVypocetOdporu.Controls.Add(this.groupBoxVypocetFrekvence);
+            this.groupBoxVypocetOdporu.Controls.Add(this.label4);
+            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxVyslednyOdpor);
+            this.groupBoxVypocetOdporu.Controls.Add(this.buttonHodnotyMereni);
+            this.groupBoxVypocetOdporu.Controls.Add(this.label2);
+            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxProud);
+            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxNapeti);
+            this.groupBoxVypocetOdporu.Controls.Add(this.label3);
+            this.groupBoxVypocetOdporu.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.groupBoxVypocetOdporu.Location = new System.Drawing.Point(15, 46);
+            this.groupBoxVypocetOdporu.Name = "groupBoxVypocetOdporu";
+            this.groupBoxVypocetOdporu.Size = new System.Drawing.Size(327, 276);
+            this.groupBoxVypocetOdporu.TabIndex = 15;
+            this.groupBoxVypocetOdporu.TabStop = false;
+            this.groupBoxVypocetOdporu.Text = "Výpočet odporu";
             // 
             // groupBoxVypocetFrekvence
             // 
@@ -133,7 +192,7 @@
             this.label5.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label5.Location = new System.Drawing.Point(6, 29);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(82, 16);
+            this.label5.Size = new System.Drawing.Size(81, 16);
             this.label5.TabIndex = 12;
             this.label5.Text = "Indukčnost [H]:";
             // 
@@ -143,7 +202,7 @@
             this.label4.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label4.Location = new System.Drawing.Point(6, 101);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(120, 16);
+            this.label4.Size = new System.Drawing.Size(119, 16);
             this.label4.TabIndex = 10;
             this.label4.Text = "Výsledný odpor [Ohm]:";
             // 
@@ -166,46 +225,6 @@
             this.buttonHodnotyMereni.Text = "Zadat hodnoty";
             this.buttonHodnotyMereni.UseVisualStyleBackColor = true;
             this.buttonHodnotyMereni.Click += new System.EventHandler(this.buttonHodnotyMereni_Click);
-            // 
-            // groupBoxVypocetOdporu
-            // 
-            this.groupBoxVypocetOdporu.Controls.Add(this.labelCisloMereni);
-            this.groupBoxVypocetOdporu.Controls.Add(this.label8);
-            this.groupBoxVypocetOdporu.Controls.Add(this.groupBoxVypocetFrekvence);
-            this.groupBoxVypocetOdporu.Controls.Add(this.label4);
-            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxVyslednyOdpor);
-            this.groupBoxVypocetOdporu.Controls.Add(this.buttonHodnotyMereni);
-            this.groupBoxVypocetOdporu.Controls.Add(this.label2);
-            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxProud);
-            this.groupBoxVypocetOdporu.Controls.Add(this.textBoxNapeti);
-            this.groupBoxVypocetOdporu.Controls.Add(this.label3);
-            this.groupBoxVypocetOdporu.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.groupBoxVypocetOdporu.Location = new System.Drawing.Point(19, 41);
-            this.groupBoxVypocetOdporu.Name = "groupBoxVypocetOdporu";
-            this.groupBoxVypocetOdporu.Size = new System.Drawing.Size(327, 276);
-            this.groupBoxVypocetOdporu.TabIndex = 11;
-            this.groupBoxVypocetOdporu.TabStop = false;
-            this.groupBoxVypocetOdporu.Text = "Výpočet odporu";
-            // 
-            // labelCisloMereni
-            // 
-            this.labelCisloMereni.AutoSize = true;
-            this.labelCisloMereni.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelCisloMereni.Location = new System.Drawing.Point(87, 76);
-            this.labelCisloMereni.Name = "labelCisloMereni";
-            this.labelCisloMereni.Size = new System.Drawing.Size(12, 16);
-            this.labelCisloMereni.TabIndex = 13;
-            this.labelCisloMereni.Text = "1";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label8.Location = new System.Drawing.Point(6, 76);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(75, 16);
-            this.label8.TabIndex = 12;
-            this.label8.Text = "Číslo měření:";
             // 
             // label2
             // 
@@ -243,57 +262,41 @@
             this.label3.TabIndex = 5;
             this.label3.Text = "Proud [A]:";
             // 
-            // buttonMail
-            // 
-            this.buttonMail.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonMail.Location = new System.Drawing.Point(245, 12);
-            this.buttonMail.Name = "buttonMail";
-            this.buttonMail.Size = new System.Drawing.Size(101, 23);
-            this.buttonMail.TabIndex = 10;
-            this.buttonMail.Text = "Zadat Mail";
-            this.buttonMail.UseVisualStyleBackColor = true;
-            this.buttonMail.Click += new System.EventHandler(this.buttonMail_Click);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(16, 15);
+            this.label1.Location = new System.Drawing.Point(12, 20);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(44, 16);
-            this.label1.TabIndex = 9;
+            this.label1.TabIndex = 13;
             this.label1.Text = "E-mail:";
-            // 
-            // textBoxMail
-            // 
-            this.textBoxMail.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxMail.Location = new System.Drawing.Point(66, 12);
-            this.textBoxMail.Name = "textBoxMail";
-            this.textBoxMail.Size = new System.Drawing.Size(173, 23);
-            this.textBoxMail.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(366, 333);
-            this.Controls.Add(this.groupBoxVypocetOdporu);
+            this.ClientSize = new System.Drawing.Size(358, 334);
             this.Controls.Add(this.buttonMail);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.textBoxMail);
+            this.Controls.Add(this.groupBoxVypocetOdporu);
+            this.Controls.Add(this.label1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Name = "Form1";
-            this.Text = "Společné opakování, test z konce 3.E";
-            this.groupBoxVypocetFrekvence.ResumeLayout(false);
-            this.groupBoxVypocetFrekvence.PerformLayout();
+            this.Text = "Form1";
             this.groupBoxVypocetOdporu.ResumeLayout(false);
             this.groupBoxVypocetOdporu.PerformLayout();
+            this.groupBoxVypocetFrekvence.ResumeLayout(false);
+            this.groupBoxVypocetFrekvence.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
         }
 
-        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Button buttonMail;
+        private System.Windows.Forms.TextBox textBoxMail;
         private System.Windows.Forms.Label labelCisloMereni;
-
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.GroupBox groupBoxVypocetOdporu;
         private System.Windows.Forms.GroupBox groupBoxVypocetFrekvence;
         private System.Windows.Forms.TextBox textBoxUhlovaFrekvence;
         private System.Windows.Forms.Label label7;
@@ -305,14 +308,11 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBoxVyslednyOdpor;
         private System.Windows.Forms.Button buttonHodnotyMereni;
-        private System.Windows.Forms.GroupBox groupBoxVypocetOdporu;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBoxProud;
         private System.Windows.Forms.TextBox textBoxNapeti;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button buttonMail;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBoxMail;
 
         #endregion
     }

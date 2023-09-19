@@ -4,11 +4,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{5AB53B24-5B61-49DC-B447-76C60FABEED9}</ProjectGuid>
+        <ProjectGuid>{DAFB6415-4897-400F-914B-027B100B0C53}</ProjectGuid>
         <OutputType>WinExe</OutputType>
         <RootNamespace>spolecne_opakovani_zacatek_roku</RootNamespace>
         <AssemblyName>spolecne_opakovani_zacatek_roku</AssemblyName>
-        <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+        <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
         <Deterministic>true</Deterministic>
