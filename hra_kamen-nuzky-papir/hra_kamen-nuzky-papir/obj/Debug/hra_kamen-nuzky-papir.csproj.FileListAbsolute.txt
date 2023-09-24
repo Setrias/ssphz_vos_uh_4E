@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\bin\Debug\hra_kamen_nuzky_papir.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\bin\Debug\hra_kamen_nuzky_papir.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\bin\Debug\hra_kamen_nuzky_papir.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen-nuzky-papir.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen_nuzky_papir.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen-nuzky-papir.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen-nuzky-papir.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen_nuzky_papir.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen_nuzky_papir.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\hra_kamen-nuzky-papir\hra_kamen-nuzky-papir\obj\Debug\hra_kamen_nuzky_papir.Form1.resources
