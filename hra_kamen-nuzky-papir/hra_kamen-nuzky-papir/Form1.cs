@@ -32,6 +32,8 @@ namespace hra_kamen_nuzky_papir
 
             labelPlayerScore.Text = "0";
             labelCompScore.Text = "0";
+
+            labelState.Visible = false;
         }
 
         private void timer_current_Tick(object sender, EventArgs e)
@@ -68,6 +70,11 @@ namespace hra_kamen_nuzky_papir
 
         private void OptionChosen(int option)
         {
+            if (!labelState.Visible)
+            {
+                labelState.Visible = true;
+            }
+            
             Random randOption = new Random();
             int compOption = randOption.Next(0, 3);
 
