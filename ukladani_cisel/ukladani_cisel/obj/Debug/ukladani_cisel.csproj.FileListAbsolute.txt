@@ -1,0 +1,10 @@
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\bin\Debug\ukladani_cisel.exe.config
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\bin\Debug\ukladani_cisel.exe
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\bin\Debug\ukladani_cisel.pdb
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.AssemblyReference.cache
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.Properties.Resources.resources
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.GenerateResource.cache
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.CoreCompileInputs.cache
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.exe
+U:\4.E PAP\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.pdb
