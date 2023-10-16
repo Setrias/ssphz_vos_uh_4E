@@ -56,13 +56,13 @@ namespace ukladani_cisel
 
         private void KonecZadavani()
         {
-            sudeCisla();
-            nejvetsiLiche();
-            vetsiSto();
-            nejmensiKladne();
+            SudeCisla();
+            NejvetsiLiche();
+            VetsiSto();
+            NejmensiKladne();
         }
 
-        private void sudeCisla()
+        private void SudeCisla()
         {
             for (int i = 0; i < poleCisel.Count; i++)
             {
@@ -74,7 +74,7 @@ namespace ukladani_cisel
             }
         }
 
-        private void nejvetsiLiche()
+        private void NejvetsiLiche()
         {
             List<int> licheCisla = new List<int>();
 
@@ -90,7 +90,7 @@ namespace ukladani_cisel
             textBoxMaxLiche.Text = Convert.ToString(poleCisel.Max());
         }
 
-        private void vetsiSto()
+        private void VetsiSto()
         {
             List<int> nadSto = new List<int>();
 
@@ -105,7 +105,7 @@ namespace ukladani_cisel
             textBoxVetsiSto.Text = Convert.ToString(nadSto.Count);
         }
 
-        private void nejmensiKladne()
+        private void NejmensiKladne()
         {
             List<int> kladne = new List<int>();
 

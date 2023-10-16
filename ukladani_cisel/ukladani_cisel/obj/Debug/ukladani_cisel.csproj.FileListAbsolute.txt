@@ -12,7 +12,6 @@ C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cise
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\bin\Debug\ukladani_cisel.exe
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\bin\Debug\ukladani_cisel.pdb
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.AssemblyReference.cache
-C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.SuggestedBindingRedirects.cache
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.Form1.resources
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.Properties.Resources.resources
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\ukladani_cisel\ukladani_cisel\obj\Debug\ukladani_cisel.csproj.GenerateResource.cache
