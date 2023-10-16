@@ -78,8 +78,26 @@ namespace ukladani_cisel
                     licheCisla.Add(cislo);
                 }
             }
-
+            
             textBoxMaxLiche.Text = Convert.ToString(poleCisel.Max());
+
+            /////////////////////////////////////////////////////////
+
+            // klasický způsob:
+
+            // int maxLiche = licheCisla[0];
+
+            // for (int i = 0; i < licheCisla.Count; i++)
+            // {
+                // if (licheCisla[i] > maxLiche)
+                // {
+                    // maxLiche = licheCisla[i];
+                // }
+            // }
+
+            // textBoxMaxLiche.Text = Convert.ToString(maxLiche);
+
+            /////////////////////////////////////////////////////////
         }
 
         private void VetsiSto()
@@ -110,6 +128,24 @@ namespace ukladani_cisel
             }
 
             textBoxMinKladne.Text = Convert.ToString(kladne.Min());
+
+            /////////////////////////////////////////////////////////
+
+            // klasický způsob:
+
+            // int minCislo = kladne[0];
+            //
+            // for (int i = 0; i < kladne.Count; i++)
+            // {
+            //     if (kladne[i] < minCislo)
+            //     {
+            //         minCislo = kladne[i];
+            //     }
+            // }
+            //
+            // textBoxMinKladne.Text = Convert.ToString(minCislo);
+
+            /////////////////////////////////////////////////////////
         }
     }
 }
