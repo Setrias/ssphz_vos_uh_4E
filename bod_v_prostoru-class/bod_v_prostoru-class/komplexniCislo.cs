@@ -21,12 +21,12 @@ namespace bod_v_prostoru_class
             return Re;
         }
 
-        public double urciIm()
+        public double UrciIm()
         {
             return Im;
         }
 
-        public double urciAbsHod()
+        public double UrciAbsHod()
         {
             return Math.Sqrt(Math.Pow(Re, 2) + Math.Pow(Im, 2));
         }

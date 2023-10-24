@@ -31,9 +31,14 @@ namespace bod_v_prostoru_class
                 KomplexniCislo kompCislo = new KomplexniCislo(realne, imaginarni);
 
                 textBoxVypisRe.Text = Convert.ToString(kompCislo.UrciRe());
-                textBoxVypisIm.Text = Convert.ToString(kompCislo.urciIm());
-                textBoxVypisAbs.Text = Convert.ToString(kompCislo.urciAbsHod());
+                textBoxVypisIm.Text = Convert.ToString(kompCislo.UrciIm());
+                textBoxVypisAbs.Text = Convert.ToString(kompCislo.UrciAbsHod());
             }
+        }
+
+        private void buttonBod3D_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
