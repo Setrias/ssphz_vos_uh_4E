@@ -51,6 +51,8 @@
             this.textBoxSourX = new System.Windows.Forms.TextBox();
             this.label11 = new System.Windows.Forms.Label();
             this.textBoxSourZ = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.textBoxVzdalenostOdPocatku3D = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // textBoxCisloRe
@@ -163,7 +165,7 @@
             this.label6.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(12, 189);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(101, 16);
+            this.label6.Size = new System.Drawing.Size(100, 16);
             this.label6.TabIndex = 11;
             this.label6.Text = "Absolutní hodnota:";
             // 
@@ -174,7 +176,7 @@
             this.label7.Location = new System.Drawing.Point(12, 248);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(87, 19);
-            this.label7.TabIndex = 12;
+            this.label7.TabIndex = 18;
             this.label7.Text = "Class Bod3D";
             // 
             // label8
@@ -183,18 +185,18 @@
             this.label8.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(12, 370);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(172, 16);
-            this.label8.TabIndex = 14;
+            this.label8.Size = new System.Drawing.Size(171, 16);
+            this.label8.TabIndex = 19;
             this.label8.Text = "Vzdálenost od počátečního bodu:";
             // 
             // textBoxVzdalenostOdPocatku
             // 
             this.textBoxVzdalenostOdPocatku.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxVzdalenostOdPocatku.Location = new System.Drawing.Point(190, 367);
+            this.textBoxVzdalenostOdPocatku.Location = new System.Drawing.Point(205, 367);
             this.textBoxVzdalenostOdPocatku.Name = "textBoxVzdalenostOdPocatku";
             this.textBoxVzdalenostOdPocatku.ReadOnly = true;
             this.textBoxVzdalenostOdPocatku.Size = new System.Drawing.Size(120, 23);
-            this.textBoxVzdalenostOdPocatku.TabIndex = 13;
+            this.textBoxVzdalenostOdPocatku.TabIndex = 17;
             // 
             // label9
             // 
@@ -222,7 +224,7 @@
             this.buttonBod3D.Location = new System.Drawing.Point(161, 276);
             this.buttonBod3D.Name = "buttonBod3D";
             this.buttonBod3D.Size = new System.Drawing.Size(100, 81);
-            this.buttonBod3D.TabIndex = 17;
+            this.buttonBod3D.TabIndex = 16;
             this.buttonBod3D.Text = "Ulož souřadnice";
             this.buttonBod3D.UseVisualStyleBackColor = true;
             this.buttonBod3D.Click += new System.EventHandler(this.buttonBod3D_Click);
@@ -233,7 +235,7 @@
             this.textBoxSourY.Location = new System.Drawing.Point(35, 305);
             this.textBoxSourY.Name = "textBoxSourY";
             this.textBoxSourY.Size = new System.Drawing.Size(120, 23);
-            this.textBoxSourY.TabIndex = 16;
+            this.textBoxSourY.TabIndex = 14;
             // 
             // textBoxSourX
             // 
@@ -241,7 +243,7 @@
             this.textBoxSourX.Location = new System.Drawing.Point(35, 276);
             this.textBoxSourX.Name = "textBoxSourX";
             this.textBoxSourX.Size = new System.Drawing.Size(120, 23);
-            this.textBoxSourX.TabIndex = 15;
+            this.textBoxSourX.TabIndex = 13;
             // 
             // label11
             // 
@@ -259,13 +261,34 @@
             this.textBoxSourZ.Location = new System.Drawing.Point(35, 334);
             this.textBoxSourZ.Name = "textBoxSourZ";
             this.textBoxSourZ.Size = new System.Drawing.Size(120, 23);
-            this.textBoxSourZ.TabIndex = 20;
+            this.textBoxSourZ.TabIndex = 15;
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.Location = new System.Drawing.Point(12, 399);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(187, 16);
+            this.label12.TabIndex = 23;
+            this.label12.Text = "Vzdálenost od počátečního bodu 3D:";
+            // 
+            // textBoxVzdalenostOdPocatku3D
+            // 
+            this.textBoxVzdalenostOdPocatku3D.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxVzdalenostOdPocatku3D.Location = new System.Drawing.Point(205, 396);
+            this.textBoxVzdalenostOdPocatku3D.Name = "textBoxVzdalenostOdPocatku3D";
+            this.textBoxVzdalenostOdPocatku3D.ReadOnly = true;
+            this.textBoxVzdalenostOdPocatku3D.Size = new System.Drawing.Size(120, 23);
+            this.textBoxVzdalenostOdPocatku3D.TabIndex = 22;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(483, 493);
+            this.ClientSize = new System.Drawing.Size(343, 431);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.textBoxVzdalenostOdPocatku3D);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.textBoxSourZ);
             this.Controls.Add(this.label9);
@@ -293,6 +316,9 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox textBoxVzdalenostOdPocatku3D;
 
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;

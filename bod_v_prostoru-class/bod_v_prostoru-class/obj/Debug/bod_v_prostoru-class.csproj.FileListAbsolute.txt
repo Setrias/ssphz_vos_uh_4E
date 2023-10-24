@@ -9,3 +9,13 @@ U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-cl
 U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.exe
 U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.pdb
 U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.pdb
