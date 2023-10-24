@@ -1,0 +1,11 @@
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.exe.config
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.exe
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\bin\Debug\bod_v_prostoru_class.pdb
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.AssemblyReference.cache
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.Properties.Resources.resources
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.GenerateResource.cache
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru-class.csproj.CoreCompileInputs.cache
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.exe
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.pdb
+U:\4.E PAP\bod_v_prostoru-class\bod_v_prostoru-class\obj\Debug\bod_v_prostoru_class.Form1.resources
