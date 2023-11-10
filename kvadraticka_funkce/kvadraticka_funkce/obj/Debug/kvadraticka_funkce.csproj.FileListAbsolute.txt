@@ -1,0 +1,11 @@
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\bin\Debug\kvadraticka_funkce.exe.config
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\bin\Debug\kvadraticka_funkce.exe
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\bin\Debug\kvadraticka_funkce.pdb
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.csproj.AssemblyReference.cache
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.Properties.Resources.resources
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.csproj.GenerateResource.cache
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.csproj.CoreCompileInputs.cache
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.exe
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.pdb
+U:\4.E PAP\kvadraticka_funkce\kvadraticka_funkce\obj\Debug\kvadraticka_funkce.Form1.resources
