@@ -1,0 +1,11 @@
+U:\4.E PAP\ctverec-class\ctverec-class\bin\Debug\ctverec_class.exe.config
+U:\4.E PAP\ctverec-class\ctverec-class\bin\Debug\ctverec_class.exe
+U:\4.E PAP\ctverec-class\ctverec-class\bin\Debug\ctverec_class.pdb
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec-class.csproj.AssemblyReference.cache
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec-class.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec_class.Properties.Resources.resources
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec-class.csproj.GenerateResource.cache
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec-class.csproj.CoreCompileInputs.cache
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec_class.exe
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec_class.pdb
+U:\4.E PAP\ctverec-class\ctverec-class\obj\Debug\ctverec_class.Form1.resources
