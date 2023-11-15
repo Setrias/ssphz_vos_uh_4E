@@ -1,0 +1,11 @@
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\bin\Debug\kvadraticka_funkce_skola.exe.config
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\bin\Debug\kvadraticka_funkce_skola.exe
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\bin\Debug\kvadraticka_funkce_skola.pdb
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.csproj.AssemblyReference.cache
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.Properties.Resources.resources
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.csproj.GenerateResource.cache
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.csproj.CoreCompileInputs.cache
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.exe
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.pdb
+U:\4.E PAP\kvadraticka_funkce_skola\kvadraticka_funkce_skola\obj\Debug\kvadraticka_funkce_skola.Form1.resources
