@@ -1,0 +1,11 @@
+U:\4.E PAP\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.exe.config
+U:\4.E PAP\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.exe
+U:\4.E PAP\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.pdb
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.AssemblyReference.cache
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.Properties.Resources.resources
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.GenerateResource.cache
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.CoreCompileInputs.cache
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.exe
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.pdb
+U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.Form1.resources
