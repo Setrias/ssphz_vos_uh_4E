@@ -9,3 +9,13 @@ U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.CoreCompileIn
 U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.exe
 U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.pdb
 U:\4.E PAP\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\bin\Debug\sinus_funkce.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\sinus_funkce\sinus_funkce\obj\Debug\sinus_funkce.pdb

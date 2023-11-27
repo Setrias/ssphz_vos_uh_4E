@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace sinus_funkce
@@ -18,13 +12,16 @@ namespace sinus_funkce
         }
 
         private Graphics panelFunkce;
-        private float amplituda, perioda, fi, n = 600;
-        private Pen pero = new Pen(Color.Blue, 2);
+        private float amplituda, perioda, fi, amplituda2, perioda2, fi2, n = 600;
+        private Pen peroBlue = new Pen(Color.Blue, 2);
+        private Pen peroRed = new Pen(Color.Red, 2);
+
+        private bool prvniSinus, druhySinus;
 
         private void panelSinus_Paint(object sender, PaintEventArgs e)
         {
             panelFunkce = panelSinus.CreateGraphics();
-            
+
             panelFunkce.DrawLine(Pens.Black, 0, panelSinus.Size.Height / 2, panelSinus.Size.Width, panelSinus.Size.Height / 2);
         }
 
@@ -36,7 +33,19 @@ namespace sinus_funkce
                 perioda = Convert.ToSingle(textBoxPerioda.Text);
                 fi = Convert.ToSingle(textBoxFi.Text);
 
-                Vypocty();
+                if (druhySinus)
+                {
+                    panelSinus.Refresh();
+                    Vypocty(amplituda, perioda, fi, peroBlue); // První sinusovka
+                    Vypocty(amplituda2, perioda2, fi2, peroRed); // Druhá sinusovka
+                }
+                else
+                {
+                    panelSinus.Refresh();
+                    Vypocty(amplituda, perioda, fi, peroBlue); // První sinusovka
+                }
+
+                prvniSinus = true;
             }
             catch
             {
@@ -44,27 +53,52 @@ namespace sinus_funkce
             }
         }
 
-        private float omega, deltaT, deltaTgraf, y, prevY;
+        private float omega, y, prevY;
 
-        private void Vypocty()
+        private void Vypocty(float amplituda, float perioda, float fi, Pen pero)
         {
-            panelSinus.Refresh();
-            omega = Convert.ToSingle(2 * Math.PI / perioda);
-            deltaT = perioda / n;
-            deltaTgraf = 200 / n;
+            omega = Convert.ToSingle(2 * Math.PI / 597);
 
             prevY = Convert.ToSingle(amplituda * Math.Sin(omega * 0 + fi));
 
             for (int i = 0; i < n; i++)
             {
-                y = Convert.ToSingle(amplituda * Math.Sin(omega * i + fi));
+                y = Convert.ToSingle(amplituda * Math.Sin(omega * i * perioda + fi));
 
                 float sourOldY = prevY + panelSinus.Size.Height / 2;
                 float sourNewY = y + panelSinus.Size.Height / 2;
-                
+
                 panelFunkce.DrawLine(pero, i, sourOldY, i + 1, sourNewY);
 
                 prevY = y;
+            }
+        }
+
+        private void buttonVykreslitDruhou_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                amplituda2 = Convert.ToSingle(textBoxAmplitudaDruha.Text);
+                perioda2 = Convert.ToSingle(textBoxPeriodaDruha.Text);
+                fi2 = Convert.ToSingle(textBoxFiDruhe.Text);
+
+                if (prvniSinus)
+                {
+                    panelSinus.Refresh();
+                    Vypocty(amplituda, perioda, fi, peroBlue); // První sinusovka
+                    Vypocty(amplituda2, perioda2, fi2, peroRed); // Druhá sinusovka
+                }
+                else
+                {
+                    panelSinus.Refresh();
+                    Vypocty(amplituda2, perioda2, fi2, peroRed); // Druhá sinusovka
+                }
+
+                druhySinus = true;
+            }
+            catch
+            {
+                MessageBox.Show("Zadaná hodnota musí být celé číslo.");
             }
         }
     }
