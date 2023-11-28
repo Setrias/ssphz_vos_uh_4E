@@ -16,6 +16,10 @@ namespace Tlumeni_RLC_obvodu
         {
             InitializeComponent();
         }
+        
+        /// <summary>
+        /// Graf horizontálně na 3s
+        /// </summary>
 
         private Vypocty _vypocty;
         private double odpor, indukcnost, kapacita, fi, amplituda, cas;
