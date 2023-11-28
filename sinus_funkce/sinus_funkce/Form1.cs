@@ -12,9 +12,10 @@ namespace sinus_funkce
         }
 
         private Graphics panelFunkce;
-        private float amplituda, perioda, fi, amplituda2, perioda2, fi2, n = 600;
+        private float amplituda, perioda, fi, amplituda2, perioda2, fi2, n = 600; // 'n' udává na jakou šířku panelu se bude vykreslovat
         private Pen peroBlue = new Pen(Color.Blue, 2);
         private Pen peroRed = new Pen(Color.Red, 2);
+        private Pen peroGreen = new Pen(Color.Green, 2);
 
         private bool prvniSinus, druhySinus;
 
@@ -46,6 +47,8 @@ namespace sinus_funkce
                 }
 
                 prvniSinus = true;
+                
+                SoucetSinus();
             }
             catch
             {
@@ -57,11 +60,11 @@ namespace sinus_funkce
 
         private void Vypocty(float amplituda, float perioda, float fi, Pen pero)
         {
-            omega = Convert.ToSingle(2 * Math.PI / 597);
+            omega = Convert.ToSingle(2 * Math.PI / 199); // perioda = 1 (jedna perioda) na 199px při 597 bude perioda = 1 na celou šířku (600px)
 
             prevY = Convert.ToSingle(amplituda * Math.Sin(omega * 0 + fi));
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n; i++) // 'n' udává na jakou šířku panelu se bude vykreslovat
             {
                 y = Convert.ToSingle(amplituda * Math.Sin(omega * i * perioda + fi));
 
@@ -95,10 +98,26 @@ namespace sinus_funkce
                 }
 
                 druhySinus = true;
+                
+                SoucetSinus();
             }
             catch
             {
                 MessageBox.Show("Zadaná hodnota musí být celé číslo.");
+            }
+        }
+
+        private void SoucetSinus()
+        {
+            if (prvniSinus && druhySinus)
+            {
+                float soucetAmplituda, soucetPerioda, soucetFi;
+
+                soucetAmplituda = amplituda + amplituda2;
+                soucetPerioda = perioda + perioda2;
+                soucetFi = fi + fi2;
+                
+                Vypocty(soucetAmplituda, soucetPerioda, soucetFi, peroGreen);
             }
         }
     }
