@@ -9,3 +9,13 @@ U:\4.E PAP\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.cs
 U:\4.E PAP\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.exe
 U:\4.E PAP\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.pdb
 U:\4.E PAP\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\bin\Debug\Tlumeni_RLC_obvodu.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\bin\Debug\Tlumeni_RLC_obvodu.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\bin\Debug\Tlumeni_RLC_obvodu.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Tlumeni_RLC_obvodu\Tlumeni_RLC_obvodu\obj\Debug\Tlumeni_RLC_obvodu.pdb
