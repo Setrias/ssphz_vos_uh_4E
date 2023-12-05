@@ -16,6 +16,14 @@ namespace Buchtík_2023_12_05_test
         {
             InitializeComponent();
         }
+        
+        /// <summary>
+        ///     Y = Y0*cos(wt)
+        ///     od 0 do 2s
+        ///     na 1 sekundu 20 vykreslených bodů
+        ///     perioda od 0,5 do 1,5s
+        ///     Zadává se amplituda (int) a periodu od 0,5 do 1,5
+        /// </summary>
 
         private Graphics panelFunkce;
         private int width, height;
