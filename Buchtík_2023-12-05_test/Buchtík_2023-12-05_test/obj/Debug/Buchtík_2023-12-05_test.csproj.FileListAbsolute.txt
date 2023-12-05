@@ -1,0 +1,11 @@
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\bin\Debug\Buchtík_2023_12_05_test.exe.config
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\bin\Debug\Buchtík_2023_12_05_test.exe
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\bin\Debug\Buchtík_2023_12_05_test.pdb
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023-12-05_test.csproj.AssemblyReference.cache
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023-12-05_test.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023_12_05_test.Properties.Resources.resources
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023-12-05_test.csproj.GenerateResource.cache
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023-12-05_test.csproj.CoreCompileInputs.cache
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023_12_05_test.exe
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023_12_05_test.pdb
+U:\4.E PAP\Buchtík_2023-12-05_test\Buchtík_2023-12-05_test\obj\Debug\Buchtík_2023_12_05_test.Form1.resources
