@@ -16,7 +16,7 @@ namespace Buchtík_2023_12_05_test
         {
             InitializeComponent();
         }
-        
+
         /// <summary>
         ///     Y = Y0*cos(wt)
         ///     od 0 do 2s
@@ -24,8 +24,8 @@ namespace Buchtík_2023_12_05_test
         ///     perioda od 0,5 do 1,5s
         ///     Zadává se amplituda (int) a periodu od 0,5 do 1,5
         /// </summary>
-
         private Graphics panelFunkce;
+
         private int width, height;
 
         private int amplituda;
@@ -65,13 +65,13 @@ namespace Buchtík_2023_12_05_test
 
             float krok = perioda / width;
 
-            for (int i = 1; i < width; i++)
+            for (int i = 0; i < width; i++)
             {
                 // následující bod
                 float y = Convert.ToSingle(amplituda * Math.Cos(2 * Math.PI * i * krok));
 
                 // kreslní čáry
-                panelFunkce.DrawLine(peroBlue, i, prevY + height / 2, i + krok, y + height / 2);
+                panelFunkce.DrawLine(peroBlue, i - 1, prevY + height / 2, i, y + height / 2);
 
                 prevY = y;
             }
@@ -80,7 +80,7 @@ namespace Buchtík_2023_12_05_test
         private void panelGraf_Paint(object sender, PaintEventArgs e)
         {
             panelFunkce = panelGraf.CreateGraphics();
-            
+
             // šířka a výška panelu
             width = panelGraf.Width;
             height = panelGraf.Height;
