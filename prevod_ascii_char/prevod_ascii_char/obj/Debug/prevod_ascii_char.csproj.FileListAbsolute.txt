@@ -1,0 +1,11 @@
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\bin\Debug\prevod_ascii_char.exe.config
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\bin\Debug\prevod_ascii_char.exe
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\bin\Debug\prevod_ascii_char.pdb
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.Form1.resources
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.Properties.Resources.resources
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.csproj.GenerateResource.cache
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.csproj.CoreCompileInputs.cache
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.exe
+u:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.pdb
+U:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.csproj.AssemblyReference.cache
+U:\4.E PAP\prevod_ascii_char\prevod_ascii_char\obj\Debug\prevod_ascii_char.csproj.SuggestedBindingRedirects.cache

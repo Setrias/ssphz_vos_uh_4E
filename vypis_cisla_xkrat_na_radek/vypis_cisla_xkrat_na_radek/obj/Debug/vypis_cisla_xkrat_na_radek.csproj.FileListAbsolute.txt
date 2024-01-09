@@ -1,0 +1,11 @@
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.csproj.AssemblyReference.cache
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.Properties.Resources.resources
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.csproj.GenerateResource.cache
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.csproj.CoreCompileInputs.cache
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\bin\Debug\vypis_cisla_xkrat_na_radek.exe.config
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\bin\Debug\vypis_cisla_xkrat_na_radek.exe
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\bin\Debug\vypis_cisla_xkrat_na_radek.pdb
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.exe
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.pdb
+U:\4.E PAP\vypis_cisla_xkrat_na_radek\vypis_cisla_xkrat_na_radek\obj\Debug\vypis_cisla_xkrat_na_radek.Form1.resources
