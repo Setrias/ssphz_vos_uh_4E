@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\bin\Debug\caesarova_sifra.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\bin\Debug\caesarova_sifra.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\bin\Debug\caesarova_sifra.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\caesarova_sifra\caesarova_sifra\obj\Debug\caesarova_sifra.Form1.resources
