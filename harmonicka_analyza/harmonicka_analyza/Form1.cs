@@ -18,7 +18,7 @@ namespace harmonicka_analyza
         }
 
         private double[] hodnoty = new double[10];
-        private double sumaHodnot, y;
+        private double soucetHodnot, y;
         private int k;
 
         private void buttonZadat_Click(object sender, EventArgs e)
@@ -31,11 +31,11 @@ namespace harmonicka_analyza
                 buttonZadat.Enabled = false;
                 for (int i = 0; i < k; i++)
                 {
-                    sumaHodnot += hodnoty[i] * i;
+                    soucetHodnot += hodnoty[i] * i;
                 }
 
-                MessageBox.Show("Suma hodnot je: " + sumaHodnot);
-                y = 1 / 3.0 * sumaHodnot;
+                MessageBox.Show("Suma hodnot je: " + soucetHodnot);
+                y = 1 / 3.0 * soucetHodnot;
                 textBoxVysledek.Text = Convert.ToString(y);
             }
         }
