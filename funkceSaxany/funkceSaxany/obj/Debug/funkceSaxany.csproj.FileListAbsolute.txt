@@ -1,0 +1,11 @@
+U:\4.E PAP\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.exe.config
+U:\4.E PAP\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.exe
+U:\4.E PAP\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.pdb
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.AssemblyReference.cache
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.Properties.Resources.resources
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.GenerateResource.cache
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.CoreCompileInputs.cache
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.exe
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.pdb
+U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.Form1.resources
