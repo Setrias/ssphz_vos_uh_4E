@@ -1,0 +1,11 @@
+U:\4.E PAP\Semafor\Semafor\bin\Debug\Semafor.exe.config
+U:\4.E PAP\Semafor\Semafor\bin\Debug\Semafor.exe
+U:\4.E PAP\Semafor\Semafor\bin\Debug\Semafor.pdb
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.csproj.AssemblyReference.cache
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.exe
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.pdb
+U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
