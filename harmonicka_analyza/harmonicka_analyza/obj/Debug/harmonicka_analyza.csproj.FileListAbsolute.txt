@@ -9,3 +9,13 @@ U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.cs
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.exe
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.pdb
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.pdb

@@ -9,3 +9,13 @@ U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
 U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.exe
 U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.pdb
 U:\4.E PAP\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\bin\Debug\Semafor.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\bin\Debug\Semafor.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor\Semafor\obj\Debug\Semafor.pdb

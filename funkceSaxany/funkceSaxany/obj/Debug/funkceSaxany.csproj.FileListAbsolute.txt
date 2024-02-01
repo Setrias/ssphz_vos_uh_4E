@@ -9,3 +9,13 @@ U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.CoreCompileIn
 U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.exe
 U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.pdb
 U:\4.E PAP\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\bin\Debug\funkceSaxany.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\funkceSaxany\funkceSaxany\obj\Debug\funkceSaxany.pdb

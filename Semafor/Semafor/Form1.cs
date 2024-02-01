@@ -1,14 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Timer = System.Windows.Forms.Timer;
 
 namespace Semafor
 {
@@ -17,17 +9,12 @@ namespace Semafor
         public Form1()
         {
             InitializeComponent();
-            
-            timerGoStop = new System.Timers.Timer();
-            timerGoStop.Interval = 2000;
-            timerGoStop.Elapsed += toGoStop;
+            timerSemafor.Enabled = true;
         }
 
         private Graphics kresleni;
         private int panelWidth, panelHeight;
-        private bool go = false;
-
-        private System.Timers.Timer timerGoStop;
+        private int seconds = 0;
 
         private Brush brRed = new SolidBrush(Color.Red);
         private Brush brOrange = new SolidBrush(Color.Orange);
@@ -39,45 +26,51 @@ namespace Semafor
             panelHeight = panelSemafor.Height;
 
             kresleni = panelSemafor.CreateGraphics();
-
-            KresliRed();
-            // KresliOrange();
-            // KresliGreen();
-        }
-        
-        private void buttonGoStop_Click(object sender, EventArgs e)
-        {
-            buttonGoStop.Enabled = false;
-            timerGoStop.Start();
         }
 
-        private void toGoStop(Object source, System.Timers.ElapsedEventArgs e)
+        private void timerSemafor_Tick(object sender, EventArgs e)
         {
-            
-            if (go)
+            seconds++;
+
+            switch (seconds)
             {
-                
-                MessageBox.Show("Go true");
-                go = false;
-                timerGoStop.Stop();
+                case 1:
+                    panelSemafor.Refresh();
+                    KresliRed();
+                    break;
+                case 5:
+                    panelSemafor.Refresh();
+                    KresliRed();
+                    KresliOrange();
+                    break;
+                case 7:
+                    panelSemafor.Refresh();
+                    KresliGreen();
+                    break;
+                case 14:
+                    panelSemafor.Refresh();
+                    KresliOrange();
+                    break;
+                case 16:
+                    panelSemafor.Refresh();
+                    KresliRed();
+                    seconds = 0;
+                    break;
             }
-            else
-            {
-                
-                MessageBox.Show("Go false");
-                go = true;
-                timerGoStop.Stop();
-            }
+
+            progressBarSemafor.Value = seconds;
         }
 
         private void KresliRed()
         {
             kresleni.FillEllipse(brRed, panelWidth / 2 - 100, 25, 100, 100);
         }
+
         private void KresliOrange()
         {
             kresleni.FillEllipse(brOrange, panelWidth / 2 - 100, 150, 100, 100);
         }
+
         private void KresliGreen()
         {
             kresleni.FillEllipse(brGreen, panelWidth / 2 - 100, 275, 100, 100);
