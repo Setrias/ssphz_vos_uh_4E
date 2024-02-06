@@ -8,3 +8,13 @@ U:\4.E PAP\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.cspro
 U:\4.E PAP\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.csproj.CoreCompileInputs.cache
 U:\4.E PAP\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.exe
 U:\4.E PAP\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\bin\Debug\slunecni_soustava.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\bin\Debug\slunecni_soustava.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\bin\Debug\slunecni_soustava.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\slunecni_soustava\slunecni_soustava\obj\Debug\slunecni_soustava.pdb
