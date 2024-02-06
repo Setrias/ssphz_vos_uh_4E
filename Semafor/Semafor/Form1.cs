@@ -13,8 +13,8 @@ namespace Semafor
         }
 
         private Graphics kresleni;
-        private int panelWidth, panelHeight;
-        private int seconds = 0;
+        private int panelWidth;
+        private int seconds;
 
         private Brush brRed = new SolidBrush(Color.Red);
         private Brush brOrange = new SolidBrush(Color.Orange);
@@ -23,7 +23,6 @@ namespace Semafor
         private void panelSemafor_Paint(object sender, PaintEventArgs e)
         {
             panelWidth = panelSemafor.Width;
-            panelHeight = panelSemafor.Height;
 
             kresleni = panelSemafor.CreateGraphics();
         }
