@@ -1,0 +1,11 @@
+U:\4.E PAP\pole_opakovani\pole_opakovani\bin\Debug\pole_opakovani.exe.config
+U:\4.E PAP\pole_opakovani\pole_opakovani\bin\Debug\pole_opakovani.exe
+U:\4.E PAP\pole_opakovani\pole_opakovani\bin\Debug\pole_opakovani.pdb
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.csproj.AssemblyReference.cache
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.csproj.SuggestedBindingRedirects.cache
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.Properties.Resources.resources
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.csproj.GenerateResource.cache
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.csproj.CoreCompileInputs.cache
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.exe
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.pdb
+U:\4.E PAP\pole_opakovani\pole_opakovani\obj\Debug\pole_opakovani.Form1.resources
