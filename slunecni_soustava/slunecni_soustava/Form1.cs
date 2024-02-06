@@ -30,13 +30,16 @@ namespace slunecni_soustava
                     return;
                 }
 
+                // Inicializace třídy
                 Planety planety = new Planety(obeznaDoba);
 
+                // Výpis výpočtů
                 string vzdalenostAu = Convert.ToString(planety.VypisVzdalenostAu());
                 textBoxVzdalenostAu.Text = vzdalenostAu;
                 textBoxVzdalenostKm.Text = Convert.ToString(planety.VypisVzdalenostKm());
                 textBoxPrumernaRychlost.Text = Convert.ToString(planety.PrumernaRychlostTelesa());
 
+                // Otevření dialogu pro výběr souboru pro zápis
                 if (chooseFile.ShowDialog() == DialogResult.OK)
                 {
                     sWriter = new StreamWriter(chooseFile.FileName);
@@ -45,14 +48,15 @@ namespace slunecni_soustava
                     sWriter.Close();
                 }
             }
-            catch (Exception exception)
+            catch
             {
-                MessageBox.Show("Oběžná doba musí být kladné reálné číslo  " + exception);
+                MessageBox.Show("Oběžná doba musí být kladné reálné číslo.");
             }
         }
 
         private void buttonVypisSouboru_Click(object sender, EventArgs e)
         {
+            // Otevření dialogu pro výběr souboru pro výpis
             if (chooseFile.ShowDialog() == DialogResult.OK)
             {
                 string radek;
