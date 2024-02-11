@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\bin\Debug\Semafor_sleep.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\bin\Debug\Semafor_sleep.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\bin\Debug\Semafor_sleep.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Semafor_sleep\Semafor_sleep\obj\Debug\Semafor_sleep.Form1.resources
