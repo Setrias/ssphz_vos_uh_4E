@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\bin\Debug\ukol_2.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\bin\Debug\ukol_2.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\bin\Debug\ukol_2.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_2\ukol_2\obj\Debug\ukol_2.Form1.resources
