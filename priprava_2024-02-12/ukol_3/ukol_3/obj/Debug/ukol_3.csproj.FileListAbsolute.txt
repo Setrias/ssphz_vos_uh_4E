@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\bin\Debug\ukol_3.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\bin\Debug\ukol_3.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\bin\Debug\ukol_3.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\priprava_2024-02-12\ukol_3\ukol_3\obj\Debug\ukol_3.Form1.resources
