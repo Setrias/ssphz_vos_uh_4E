@@ -9,3 +9,13 @@ U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.exe
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.pdb
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_2024_02_13_test.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_2024_02_13_test.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_2024_02_13_test.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.pdb

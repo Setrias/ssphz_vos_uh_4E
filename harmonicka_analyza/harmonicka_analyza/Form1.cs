@@ -17,27 +17,62 @@ namespace harmonicka_analyza
             InitializeComponent();
         }
 
-        private double[] hodnoty = new double[10];
-        private double soucetHodnot, y;
-        private int k;
+        private double[] hodnoty = { 13, 25, 43, 56, 57, 28, 7, -14, -28, -29, -28, 3 };
+        private double c = 12;
+        private double sumaHodnotY, deltaAlfa;
 
-        private void buttonZadat_Click(object sender, EventArgs e)
+        private void buttonVypocitat_Click(object sender, EventArgs e)
         {
-            hodnoty[k] = (double)numericUpDownHodnoty.Value;
-            k++;
+            sumaHodnotY = SumaHodnotY();
+            deltaAlfa = 2 * Math.PI / c;
 
-            if (k == 10)
+            textBoxA0.Text = Convert.ToString(1.0 / c * sumaHodnotY);
+
+            textBoxA1.Text = VypocetAn(1).ToString();
+            textBoxA2.Text = VypocetAn(2).ToString();
+            textBoxA3.Text = VypocetAn(3).ToString();
+            textBoxA4.Text = VypocetAn(4).ToString();
+
+            textBoxB1.Text = VypocetBn(1).ToString();
+            textBoxB2.Text = VypocetBn(2).ToString();
+            textBoxB3.Text = VypocetBn(3).ToString();
+            textBoxB4.Text = VypocetBn(4).ToString();
+        }
+
+        private double SumaHodnotY()
+        {
+            sumaHodnotY = 0;
+
+            foreach (double y in hodnoty)
             {
-                buttonZadat.Enabled = false;
-                for (int i = 0; i < k; i++)
-                {
-                    soucetHodnot += hodnoty[i] * i;
-                }
-
-                MessageBox.Show("Suma hodnot je: " + soucetHodnot);
-                y = 1 / 3.0 * soucetHodnot;
-                textBoxVysledek.Text = Convert.ToString(y);
+                sumaHodnotY += y;
             }
+
+            return sumaHodnotY;
+        }
+
+        private double VypocetAn(int numHarmonicka)
+        {
+            double suma = 0;
+
+            for (int i = 0; i < c; i++)
+            {
+                suma += hodnoty[i] * Math.Cos(numHarmonicka * ((i + 1) * deltaAlfa));
+            }
+
+            return 2.0 / c * suma;
+        }
+
+        private double VypocetBn(int numHarmonicka)
+        {
+            double suma = 0;
+
+            for (int i = 0; i < c; i++)
+            {
+                suma += hodnoty[i] * Math.Sin(numHarmonicka * ((i + 1) * deltaAlfa));
+            }
+
+            return 2.0 / c * suma;
         }
     }
 }
