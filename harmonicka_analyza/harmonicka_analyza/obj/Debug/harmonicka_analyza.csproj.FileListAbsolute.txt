@@ -2,7 +2,6 @@ U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.ex
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.exe
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\bin\Debug\harmonicka_analyza.pdb
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.AssemblyReference.cache
-U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.SuggestedBindingRedirects.cache
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.Properties.Resources.resources
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.GenerateResource.cache
 U:\4.E PAP\harmonicka_analyza\harmonicka_analyza\obj\Debug\harmonicka_analyza.csproj.CoreCompileInputs.cache
