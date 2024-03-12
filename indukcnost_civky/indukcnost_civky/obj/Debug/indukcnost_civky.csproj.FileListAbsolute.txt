@@ -9,3 +9,13 @@ C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.exe
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.pdb
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.Form1.resources
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.exe.config
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.exe
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.pdb
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.AssemblyReference.cache
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.Form1.resources
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.Properties.Resources.resources
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.GenerateResource.cache
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.CoreCompileInputs.cache
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.exe
+U:\4.E PAP\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.pdb

@@ -28,6 +28,10 @@ namespace indukcnost_civky
         private double frekvence = 50, odporCivky;
         private int pocetHodnot;
 
+        private Graphics graf;
+        private int sirka, vyska;
+        private Pen peroGraf = new Pen(Color.Blue, 2);
+
         private void buttonZadat_Click(object sender, EventArgs e)
         {
             try
@@ -47,23 +51,11 @@ namespace indukcnost_civky
 
                         // vypocet indukcnosti
                         double omega = 2 * Math.PI * frekvence;
-                        double indukcnost = 
-                            Math.Sqrt(
-                                Math.Pow(
-                                    napeti, 2
-                                    ) / 
-                                Math.Pow(
-                                    proud / 1000, 2
-                                    ) + 
-                                Math.Pow(
-                                    odporCivky, 2
-                                    )
-                                ) 
-                            / omega;
+                        double indukcnost = Math.Sqrt(Math.Pow(napeti, 2) / Math.Pow(proud / 1000, 2) + Math.Pow(odporCivky, 2)) / omega;
 
                         mereni[pocetHodnot].indukcnost = indukcnost;
 
-                        listBoxHodnoty.Items.Add($"U = {napeti}, I = {proud}, L = {indukcnost}");
+                        listBoxHodnoty.Items.Add($"U = {napeti}V, I = {proud}mA, L = {indukcnost}H");
 
                         textBoxOdporCivky.Enabled = false;
                         pocetHodnot++;
@@ -72,6 +64,8 @@ namespace indukcnost_civky
                         {
                             buttonZadat.Enabled = false;
                             Vysledky();
+
+                            VykreslitGraf();
                         }
                     }
                     else
@@ -117,6 +111,50 @@ namespace indukcnost_civky
             textBoxIndukcnost.Text = Math.Round(soucetIndukcnost / 10, 1).ToString();
             textBoxMaxIndukcnost.Text = maxL.ToString();
             textBoxPocetNadPetV.Text = pocetMereniNadPetV.ToString();
+        }
+
+        private void VykreslitGraf()
+        {
+            float krokX = sirka / 10, krokY = vyska / 10;
+            float posunX = 0, posunY = 0;
+
+            graf.DrawLine(peroGraf, 0, 0, (float)mereni[0].napeti, (float)mereni[0].proud);
+
+            for (int i = 1; i < 10; i++)
+            {
+                float napetiPrev = (float)mereni[i - 1].napeti, proudPrev = (float)mereni[i - 1].proud;
+                float napeti = (float)mereni[i].napeti, proud = (float)mereni[i].proud;
+
+                graf.DrawLine(peroGraf, napetiPrev + posunX, vyska - proudPrev + posunY, napeti + posunX, vyska - proud + posunY);
+
+                posunX += krokX;
+                posunY += krokY;
+            }
+        }
+
+        private void panelGraf_Paint(object sender, PaintEventArgs e)
+        {
+            graf = panelGraf.CreateGraphics();
+
+            sirka = panelGraf.Width;
+            vyska = panelGraf.Height;
+
+            graf.DrawLine(Pens.Black, 0, vyska / 2, sirka, vyska / 2);
+        }
+
+        private void buttonReset_Click(object sender, EventArgs e)
+        {
+            mereni = new HodnotyMereni[10];
+            pocetHodnot = 0;
+            buttonZadat.Enabled = true;
+            textBoxOdporCivky.Enabled = true;
+
+            textBoxOdporCivky.Clear();
+            textBoxMaxIndukcnost.Clear();
+            textBoxIndukcnost.Clear();
+            textBoxPocetNadPetV.Clear();
+            textBoxNapeti.Clear();
+            textBoxProud.Clear();
         }
     }
 }

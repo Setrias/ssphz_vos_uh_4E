@@ -2,7 +2,6 @@ U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_2024_02_13_test.exe
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\bin\Debug\Buchtík_2024_02_13_test.pdb
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.AssemblyReference.cache
-U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.SuggestedBindingRedirects.cache
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024_02_13_test.Properties.Resources.resources
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.GenerateResource.cache
 U:\4.E PAP\Buchtík_2024-02-13_test\Buchtík_2024-02-13_test\obj\Debug\Buchtík_2024-02-13_test.csproj.CoreCompileInputs.cache
