@@ -1,0 +1,11 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\bin\Debug\indukcnost_civky.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\indukcnost_civky\indukcnost_civky\obj\Debug\indukcnost_civky.Form1.resources
