@@ -1,0 +1,10 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\bin\Debug\vazeny_prumer.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\bin\Debug\vazeny_prumer.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\bin\Debug\vazeny_prumer.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\vazeny_prumer\vazeny_prumer\obj\Debug\vazeny_prumer.Form1.resources

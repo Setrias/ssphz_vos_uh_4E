@@ -119,23 +119,31 @@ namespace harmonicka_analyza
             float yPrev = 0, yNext = 0;
             int pocetAmplitud = 72;
             int krok = panelWidth / pocetAmplitud;
+            int posunY = 0, posunX = 0;
+            listBoxHodnoty.Items.Clear();
 
             double An = 0, Fin = 0;
+            double omegaNula = 2 * Math.PI * frekvence;
 
             for (int i = 0; i < 4; i++)
             {
                 An = Math.Sqrt(Math.Pow(_koeficienty[i].a, 2) + Math.Pow(_koeficienty[i].b, 2));
                 Fin = Math.Atan(_koeficienty[i].b / _koeficienty[i].a);
 
-                for (int j = 0; j < panelWidth; j += krok)
+                for (int j = 0; j < pocetAmplitud; j++)
                 {
-                    yPrev += Convert.ToSingle(An * Math.Cos(i * (2 * Math.PI * frekvence) * j - Fin));
-                    yNext += Convert.ToSingle(An * Math.Cos(i * (2 * Math.PI * frekvence) * (j + krok) - Fin));
+                    // yPrev += Convert.ToSingle(An * Math.Cos((i + 1) * omegaNula * krok - Fin));
+                    yPrev += Convert.ToSingle(An * Math.Cos((i + 1) * omegaNula * posunY - Fin));
+                    posunY += krok;
+                    // yNext += Convert.ToSingle(An * Math.Cos((i + 1) * omegaNula * krok - Fin));
+                    yNext += Convert.ToSingle(An * Math.Cos((i + 1) * omegaNula * posunY - Fin));
 
+                    listBoxHodnoty.Items.Add("An. " + i + " //// " + An);
+                    listBoxHodnoty.Items.Add("Fin. " + i + " //// " + Fin);
                     listBoxHodnoty.Items.Add("Konst. " + i + " / prev / " + yPrev);
                     listBoxHodnoty.Items.Add("Konst. " + i + " / next / " + yNext);
 
-                    grafHarmonicka.DrawLine(Pens.Black, j, yPrev, j + krok, yNext);
+                    grafHarmonicka.DrawLine(Pens.Black, j, panelHeight / 2 + yPrev * (float)0.2, j + krok, panelHeight / 2 + yNext * (float)0.2);
                 }
             }
         }
