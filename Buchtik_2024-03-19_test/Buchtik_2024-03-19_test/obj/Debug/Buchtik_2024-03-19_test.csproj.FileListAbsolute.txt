@@ -1,0 +1,10 @@
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\bin\Debug\Buchtik_2024_03_19_test.exe.config
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\bin\Debug\Buchtik_2024_03_19_test.exe
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\bin\Debug\Buchtik_2024_03_19_test.pdb
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024-03-19_test.csproj.AssemblyReference.cache
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024_03_19_test.Properties.Resources.resources
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024-03-19_test.csproj.GenerateResource.cache
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024-03-19_test.csproj.CoreCompileInputs.cache
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024_03_19_test.exe
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024_03_19_test.pdb
+U:\4.E PAP\Buchtik_2024-03-19_test\Buchtik_2024-03-19_test\obj\Debug\Buchtik_2024_03_19_test.Form1.resources
