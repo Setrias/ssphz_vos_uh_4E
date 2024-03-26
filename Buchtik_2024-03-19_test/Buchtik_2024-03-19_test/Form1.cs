@@ -40,9 +40,17 @@ namespace Buchtik_2024_03_19_test
                 znamkaMat = Convert.ToInt32(textBoxMat.Text);
                 znamkaFyz = Convert.ToInt32(textBoxFyz.Text);
 
-                if (pocetBodu < 0 && pocetBodu > 100)
+                // oprava && >> ||
+                if (pocetBodu < 0 || pocetBodu > 100)
                 {
                     MessageBox.Show("Počet bodů musí být v rozmezí od 0 do 100 bodů");
+                    return;
+                }
+
+                // pridani testu znamky
+                if (znamkaMat < 1 || znamkaMat > 5 || znamkaFyz < 1 || znamkaFyz > 5)
+                {
+                    MessageBox.Show("Známky musí být v rozmezí 1 až 5");
                     return;
                 }
 
