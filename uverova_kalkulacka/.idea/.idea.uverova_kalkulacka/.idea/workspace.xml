@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea1ac034-f8f5-486e-849e-bb039a8cd827" name="Changes" comment="" />
+    <list default="true" id="ea1ac034-f8f5-486e-849e-bb039a8cd827" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/uverova_kalkulacka/Uver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.uverova_kalkulacka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.uverova_kalkulacka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uverova_kalkulacka/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/uverova_kalkulacka/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uverova_kalkulacka/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/uverova_kalkulacka/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uverova_kalkulacka/uverova_kalkulacka.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/uverova_kalkulacka/uverova_kalkulacka.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +26,9 @@
     <setting file="file://$PROJECT_DIR$/uverova_kalkulacka/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2duMKqX40J8BwuL5uOR9XJIHvgH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.uverova_kalkulacka.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -77,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710853448890</updated>
       <workItem from="1710853449944" duration="978000" />
+      <workItem from="1711455998490" duration="3565000" />
     </task>
     <task id="LOCAL-00001" summary="Úvěrová kalkulačka + zadání">
       <option name="closed" value="true" />
