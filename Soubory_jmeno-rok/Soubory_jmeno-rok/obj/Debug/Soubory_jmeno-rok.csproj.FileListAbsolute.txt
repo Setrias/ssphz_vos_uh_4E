@@ -1,0 +1,10 @@
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.exe.config
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.exe
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.pdb
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.AssemblyReference.cache
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.Properties.Resources.resources
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.GenerateResource.cache
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.CoreCompileInputs.cache
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.exe
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.pdb
+U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.Form1.resources
