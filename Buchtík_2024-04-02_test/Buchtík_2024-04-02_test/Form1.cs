@@ -43,6 +43,11 @@ namespace Buchtík_2024_04_02_test
                 textBoxOmega.Text = omega.ToString();
                 textBoxOmegaNula.Text = omegaNula.ToString();
                 textBoxDelta.Text = delta.ToString();
+                obvod = new ObvodRLC(R, L, C);
+
+                textBoxDelta.Text = Convert.ToString(obvod.Delta());
+                textBoxOmegaNula.Text = Convert.ToString(obvod.OmegaNula());
+                textBoxOmega.Text = Convert.ToString(obvod.Omega());
             }
             catch
             {
