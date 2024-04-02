@@ -1,0 +1,10 @@
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\bin\Debug\uverova_kalkulacka.exe.config
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\bin\Debug\uverova_kalkulacka.exe
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\bin\Debug\uverova_kalkulacka.pdb
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.csproj.AssemblyReference.cache
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.Properties.Resources.resources
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.csproj.GenerateResource.cache
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.csproj.CoreCompileInputs.cache
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.exe
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.pdb
+U:\4.E PAP\uverova_kalkulacka\uverova_kalkulacka\obj\Debug\uverova_kalkulacka.Form1.resources
