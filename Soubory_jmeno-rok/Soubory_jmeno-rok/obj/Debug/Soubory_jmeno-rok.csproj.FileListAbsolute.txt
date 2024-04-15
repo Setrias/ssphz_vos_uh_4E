@@ -8,3 +8,13 @@ U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.cspro
 U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.exe
 U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.pdb
 U:\4.E PAP\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\bin\Debug\Soubory_jmeno_rok.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.Form1.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno-rok.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_jmeno-rok\Soubory_jmeno-rok\obj\Debug\Soubory_jmeno_rok.pdb

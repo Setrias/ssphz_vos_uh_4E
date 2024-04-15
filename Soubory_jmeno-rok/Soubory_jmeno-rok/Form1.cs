@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Soubory_jmeno_rok
@@ -18,29 +11,38 @@ namespace Soubory_jmeno_rok
             InitializeComponent();
         }
 
-        Stream stream;
         private string jmeno, rok;
         private StreamReader sReader;
+        private StreamWriter sWriter;
 
         private void buttonUlozit_Click(object sender, EventArgs e)
         {
             jmeno = textBoxJmeno.Text;
             rok = textBoxRok.Text;
 
+            // vytvoření instance dialogu pro uložení souboru
             SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.Filter = ".txt soubory (*.txt)";
+            saveFileDialog.InitialDirectory = Directory.GetCurrentDirectory(); // výchozí složka po otevření dialogu
+            saveFileDialog.FileName = "soubor.txt"; // výchozí název souboru
+            saveFileDialog.Filter = "Textové soubory (*.txt)|.txt"; // filtr souborů pro omezení výběru pouze na .txt soubory
 
+            string file;
+            // výběr / pojmenování souboru
             if (saveFileDialog.ShowDialog() == DialogResult.OK)
             {
-                if ((stream = saveFileDialog.OpenFile()) != null)
-                {
-                }
+                // po výběru / pojmenování souboru se převezme název souboru
+                file = saveFileDialog.FileName;
+                sWriter = new StreamWriter(file); // vytvoří se StreamWriter s vybraným souborem
+                sWriter.Write($"{jmeno} {rok}");
+                sWriter.Flush();
+                sWriter.Close();
             }
         }
 
         private void buttonPrecist_Click(object sender, EventArgs e)
         {
             OpenFileDialog fileDialog = new OpenFileDialog();
+            fileDialog.InitialDirectory = Directory.GetCurrentDirectory();
             string file;
 
             if (fileDialog.ShowDialog() == DialogResult.OK)
