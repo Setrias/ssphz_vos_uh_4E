@@ -1,0 +1,10 @@
+U:\4.E PAP\Soubory_deti\Soubory_deti\bin\Debug\Soubory_deti.exe.config
+U:\4.E PAP\Soubory_deti\Soubory_deti\bin\Debug\Soubory_deti.exe
+U:\4.E PAP\Soubory_deti\Soubory_deti\bin\Debug\Soubory_deti.pdb
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.AssemblyReference.cache
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.Properties.Resources.resources
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.GenerateResource.cache
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.CoreCompileInputs.cache
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.exe
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.pdb
+U:\4.E PAP\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.Form1.resources

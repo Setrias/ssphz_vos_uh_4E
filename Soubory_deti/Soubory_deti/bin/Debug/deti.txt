@@ -1,0 +1,17 @@
+ Jana věk 2 výška 86 hmotnost 13
+ Ivan věk 3 výška 98 hmotnost 18,5
+ Katka věk 2 výška 89 hmotnost 14
+ Martina věk 2 výška 88 hmotnost 15
+ Zuzana věk 3 výška 97 hmotnost 19
+ Zbyněk věk 2 výška 89 hmotnost 17
+ Petr věk 3 výška 96 hmotnost 17,5
+ Tobias věk 2 výška 86 hmotnost 13,5
+ Dominik věk 2 výška 85 hmotnost 12
+ Jan věk 2 výška 87 hmotnost 13
+ Martina věk 3 výška 93 hmotnost 16
+ Otýlie věk 2 výška 88 hmotnost 12
+ Mirka věk 2 výška 89 hmotnost 14
+ Lenka věk 3 výška 94 hmotnost 16,5
+ Věrka věk 3 výška 90 hmotnost 17
+ Mirek věk 3 výška 99 hmotnost 16
+ Pavel věk 2 výška 91 hmotnost 12,5
