@@ -12,7 +12,6 @@ C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\bi
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\bin\Debug\Soubory_deti.exe
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\bin\Debug\Soubory_deti.pdb
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.AssemblyReference.cache
-C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.SuggestedBindingRedirects.cache
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.Form1.resources
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.Properties.Resources.resources
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.GenerateResource.cache

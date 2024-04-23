@@ -42,10 +42,10 @@
             // listBoxUdaje
             // 
             this.listBoxUdaje.FormattingEnabled = true;
-            this.listBoxUdaje.ItemHeight = 24;
+            this.listBoxUdaje.ItemHeight = 16;
             this.listBoxUdaje.Location = new System.Drawing.Point(12, 12);
             this.listBoxUdaje.Name = "listBoxUdaje";
-            this.listBoxUdaje.Size = new System.Drawing.Size(249, 388);
+            this.listBoxUdaje.Size = new System.Drawing.Size(249, 324);
             this.listBoxUdaje.TabIndex = 0;
             // 
             // panelGraf
@@ -59,56 +59,59 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 413);
+            this.label1.Location = new System.Drawing.Point(12, 351);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(160, 24);
+            this.label1.Size = new System.Drawing.Size(107, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Počet tříletých dětí:";
             // 
             // textBoxPocetTriletych
             // 
-            this.textBoxPocetTriletych.Location = new System.Drawing.Point(171, 410);
+            this.textBoxPocetTriletych.Location = new System.Drawing.Point(171, 348);
             this.textBoxPocetTriletych.Name = "textBoxPocetTriletych";
-            this.textBoxPocetTriletych.Size = new System.Drawing.Size(90, 31);
+            this.textBoxPocetTriletych.ReadOnly = true;
+            this.textBoxPocetTriletych.Size = new System.Drawing.Size(90, 23);
             this.textBoxPocetTriletych.TabIndex = 3;
             // 
             // textBoxPrumVyskaDvouletych
             // 
-            this.textBoxPrumVyskaDvouletych.Location = new System.Drawing.Point(171, 439);
+            this.textBoxPrumVyskaDvouletych.Location = new System.Drawing.Point(171, 377);
             this.textBoxPrumVyskaDvouletych.Name = "textBoxPrumVyskaDvouletych";
-            this.textBoxPrumVyskaDvouletych.Size = new System.Drawing.Size(90, 31);
+            this.textBoxPrumVyskaDvouletych.ReadOnly = true;
+            this.textBoxPrumVyskaDvouletych.Size = new System.Drawing.Size(90, 23);
             this.textBoxPrumVyskaDvouletych.TabIndex = 5;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 442);
+            this.label2.Location = new System.Drawing.Point(12, 380);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(232, 24);
+            this.label2.Size = new System.Drawing.Size(153, 16);
             this.label2.TabIndex = 4;
             this.label2.Text = "Průměrná výška dvouletých:";
             // 
             // textBoxPrumVahaDvouletych
             // 
-            this.textBoxPrumVahaDvouletych.Location = new System.Drawing.Point(171, 468);
+            this.textBoxPrumVahaDvouletych.Location = new System.Drawing.Point(171, 406);
             this.textBoxPrumVahaDvouletych.Name = "textBoxPrumVahaDvouletych";
-            this.textBoxPrumVahaDvouletych.Size = new System.Drawing.Size(90, 31);
+            this.textBoxPrumVahaDvouletych.ReadOnly = true;
+            this.textBoxPrumVahaDvouletych.Size = new System.Drawing.Size(90, 23);
             this.textBoxPrumVahaDvouletych.TabIndex = 7;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(12, 471);
+            this.label3.Location = new System.Drawing.Point(12, 409);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(224, 24);
+            this.label3.Size = new System.Drawing.Size(147, 16);
             this.label3.TabIndex = 6;
             this.label3.Text = "Průměrná váha dvouletých:";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(923, 506);
+            this.ClientSize = new System.Drawing.Size(882, 442);
             this.Controls.Add(this.textBoxPrumVahaDvouletych);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBoxPrumVyskaDvouletych);

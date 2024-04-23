@@ -36,6 +36,9 @@ namespace Soubory_deti
             //graf = panelGraf.CreateGraphics();
             //sirka = panelGraf.Width;
             //vyska = panelGraf.Height;
+
+            // graf.DrawLine(Pens.Chocolate, 0, 0, 600, 400);
+            // graf.FillRectangle(Brushes.Blue, 403, 338, 3, 3);
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -46,7 +49,8 @@ namespace Soubory_deti
             graf = panelGraf.CreateGraphics();
             sirka = panelGraf.Width;
             vyska = panelGraf.Height;
-            if (graf != null) Graf();
+            // if (graf != null) Graf();
+            Graf();
         }
 
         private void Data()
@@ -139,13 +143,15 @@ namespace Soubory_deti
             float krokX = (sirka - 10) / maxVaha;
             float krokY = (vyska - 10) / maxVyska;
 
+
             foreach (var dite in _udaje)
             {
-                MessageBox.Show($"krokX * dite.vaha = X \n {krokX} * {(float)dite.vaha} = {krokX * (float)dite.vaha} \n\n krokY * dite.vyska = Y \n {krokY} * {(float)dite.vyska} = {krokY * (float)dite.vyska}");
-                graf.DrawRectangle(Pens.Blue, krokX * (float)dite.vaha, krokY * (float)dite.vyska, 3, 3);
+                int x = (int)krokX * (int)dite.vaha;
+                int y = (int)krokY * (int)dite.vyska;
+                //MessageBox.Show($"krokX * dite.vaha = X \n {krokX} * {(float)dite.vaha} = {krokX * (float)dite.vaha} \n\n krokY * dite.vyska = Y \n {krokY} * {(float)dite.vyska} = {krokY * (float)dite.vyska}");
+                //MessageBox.Show($"{x}, {y}");
+                graf.FillRectangle(Brushes.Blue, x, y, 3, 3);
             }
-
-            panelGraf.Refresh();
         }
     }
 }
