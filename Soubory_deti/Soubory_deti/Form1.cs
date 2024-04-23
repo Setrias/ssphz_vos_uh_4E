@@ -33,12 +33,11 @@ namespace Soubory_deti
 
         private void panelGraf_Paint(object sender, PaintEventArgs e)
         {
-            //graf = panelGraf.CreateGraphics();
-            //sirka = panelGraf.Width;
-            //vyska = panelGraf.Height;
+            graf = panelGraf.CreateGraphics();
+            sirka = panelGraf.Width;
+            vyska = panelGraf.Height;
 
-            // graf.DrawLine(Pens.Chocolate, 0, 0, 600, 400);
-            // graf.FillRectangle(Brushes.Blue, 403, 338, 3, 3);
+            Graf(graf);
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -46,11 +45,6 @@ namespace Soubory_deti
             Data();
             PocetTriletych();
             Dvoulete();
-            graf = panelGraf.CreateGraphics();
-            sirka = panelGraf.Width;
-            vyska = panelGraf.Height;
-            // if (graf != null) Graf();
-            Graf();
         }
 
         private void Data()
@@ -128,7 +122,7 @@ namespace Soubory_deti
             textBoxPrumVahaDvouletych.Text = (soucetVaha / pocetDvouletych).ToString();
         }
 
-        private void Graf()
+        private void Graf(Graphics graf)
         {
             // podle zadání bod[výška v cm, hmotnost v kg] ([x, y])
 
@@ -146,11 +140,10 @@ namespace Soubory_deti
 
             foreach (var dite in _udaje)
             {
-                int x = (int)krokX * (int)dite.vaha;
-                int y = (int)krokY * (int)dite.vyska;
-                //MessageBox.Show($"krokX * dite.vaha = X \n {krokX} * {(float)dite.vaha} = {krokX * (float)dite.vaha} \n\n krokY * dite.vyska = Y \n {krokY} * {(float)dite.vyska} = {krokY * (float)dite.vyska}");
-                //MessageBox.Show($"{x}, {y}");
-                graf.FillRectangle(Brushes.Blue, x, y, 3, 3);
+                int x = (int)(krokX * dite.vaha);
+                int y = (int)(400 - krokY * dite.vyska);
+                //MessageBox.Show($"Souřadnice X: {x}, souřadnice Y: {y}");
+                graf.FillRectangle(Brushes.Blue, x - 1, y - 1, 3, 3);
             }
         }
     }

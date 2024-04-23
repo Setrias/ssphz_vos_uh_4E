@@ -18,3 +18,4 @@ C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\ob
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.CoreCompileInputs.cache
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.exe
 C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\Soubory_deti\Soubory_deti\obj\Debug\Soubory_deti.csproj.SuggestedBindingRedirects.cache
