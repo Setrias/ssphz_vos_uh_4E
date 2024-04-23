@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -26,11 +27,26 @@ namespace Soubory_deti
         private string nazevSouboru = "deti.txt";
         private int pocetUdaju;
 
+        // Graf
+        private Graphics graf;
+        private int sirka, vyska;
+
+        private void panelGraf_Paint(object sender, PaintEventArgs e)
+        {
+            //graf = panelGraf.CreateGraphics();
+            //sirka = panelGraf.Width;
+            //vyska = panelGraf.Height;
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             Data();
             PocetTriletych();
             Dvoulete();
+            graf = panelGraf.CreateGraphics();
+            sirka = panelGraf.Width;
+            vyska = panelGraf.Height;
+            if (graf != null) Graf();
         }
 
         private void Data()
@@ -110,7 +126,26 @@ namespace Soubory_deti
 
         private void Graf()
         {
-            // podle zadání [výška v cm, hmotnost v kg] ([x, y])
+            // podle zadání bod[výška v cm, hmotnost v kg] ([x, y])
+
+            float maxVaha = (float)_udaje[0].vaha;
+            float maxVyska = (float)_udaje[0].vyska;
+            foreach (var udaj in _udaje)
+            {
+                if (udaj.vaha > maxVaha) maxVaha = (float)udaj.vaha;
+                if (udaj.vyska > maxVyska) maxVyska = (float)udaj.vyska;
+            }
+
+            float krokX = (sirka - 10) / maxVaha;
+            float krokY = (vyska - 10) / maxVyska;
+
+            foreach (var dite in _udaje)
+            {
+                MessageBox.Show($"krokX * dite.vaha = X \n {krokX} * {(float)dite.vaha} = {krokX * (float)dite.vaha} \n\n krokY * dite.vyska = Y \n {krokY} * {(float)dite.vyska} = {krokY * (float)dite.vyska}");
+                graf.DrawRectangle(Pens.Blue, krokX * (float)dite.vaha, krokY * (float)dite.vyska, 3, 3);
+            }
+
+            panelGraf.Refresh();
         }
     }
 }
