@@ -1,0 +1,9 @@
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\bin\Debug\maturita_priprava.exe.config
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\bin\Debug\maturita_priprava.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\bin\Debug\maturita_priprava.pdb
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.csproj.AssemblyReference.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.Properties.Resources.resources
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.exe
+C:\Users\tomas\Documents\Programing\ssphz_vos_uh_4E\maturita_priprava\maturita_priprava\obj\Debug\maturita_priprava.pdb
